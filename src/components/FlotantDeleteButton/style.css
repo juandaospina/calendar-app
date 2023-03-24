@@ -1,0 +1,10 @@
+.button-danger {
+  height: 3.5rem;
+  width: 3.5rem;
+  position: fixed;
+  bottom: 90px;
+  right: 25px;
+  border: none;
+  border-radius: 100%;
+}
+

@@ -1,0 +1,10 @@
+.button {
+  height: 3.5rem;
+  width: 3.5rem;
+  position: fixed;
+  bottom: 25px;
+  right: 25px;
+  border: none;
+  background-color: #1E88E5;
+  border-radius: 100%;
+}
